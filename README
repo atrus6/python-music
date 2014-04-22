@@ -1,0 +1,9 @@
+This is a pretty simplistic music creation program that outputs a series of notes based upon some n-grams.
+The music, is pretty terrible, as it needs more depth to it.
+
+Uses musical ngrams from http://www.peachnote.com/info.html
+
+MidiUtil to create Midis: http://code.google.com/p/midiutil/
+
+Walker's Alias method for calculating distributions: http://code.activestate.com/recipes/576564-walkers-alias-method-for-random-objects-with-diffe/
+
